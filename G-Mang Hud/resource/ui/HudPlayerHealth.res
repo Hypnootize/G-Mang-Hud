@@ -1190,10 +1190,10 @@
 		"pin_corner_to_sibling"	"1"
 		"pin_to_sibling_corner"	"1"
 	}
-	"PlayerStatus_RuneWarlock"
+	"PlayerStatus_RuneReflect"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"PlayerStatus_RuneWarlock"
+		"fieldName"		"PlayerStatus_RuneReflect"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"9"
@@ -1202,7 +1202,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
-		"image"			"../Effects/powerup_warlock_hud"
+		"image"			"../Effects/powerup_reflect_hud"
 		"fgcolor"		"TanDark"
 		"pin_to_sibling"		"PlayerStatusAnchor"
 		"pin_corner_to_sibling"	"1"

@@ -23,8 +23,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"	"9999"
 		}
 	}
 	"TimePanelProgressBar"
@@ -47,8 +46,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"	"9999"
 		}
 	}
 	"WaitingForPlayersLabel"
@@ -71,8 +69,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"	"9999"
 		}
 	}			
 	"WaitingForPlayersBG"
@@ -91,8 +88,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"	"9999"
 		}
 	}
 	"OvertimeLabel"
@@ -115,8 +111,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"	"9999"
 		}
 	}			
 	"OvertimeBG"
@@ -135,8 +130,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"	"9999"
 		}
 	}
 	"SuddenDeathLabel"
@@ -159,8 +153,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"	"9999"
 		}
 	}			
 	"SuddenDeathBG"
@@ -179,8 +172,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"	"9999"
 		}
 	}	
 	"SetupLabel"
@@ -203,8 +195,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"	"9999"
 		}
 	}	
 	"SetupBG"
@@ -223,8 +214,50 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"	"9999"
+		}
+	}
+
+	"ServerTimeLimitLabel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"ServerTimeLimitLabel"
+		"xpos"			"29"
+		"ypos"			"22"
+		"zpos"			"5"
+		"wide"			"50"
+		"tall"			"20"
+		"visible"		"0"
+		"enabled"		"1"
+		"labelText"		"%servertimeleft%"
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"wrap"			"0"
+		"font"			"HudFontSmallest"
+		"fgcolor"		"255 255 255 255"
+		
+		if_match
+		{
+			"ypos"		"25"
+		}
+	}	
+	"ServerTimeLimitLabelBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ServerTimeLimitLabelBG"
+		"xpos"			"9999"
+		"ypos"			"0"
+		"zpos"			"1"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
+		"fillcolor"		"0 0 0 100"
+		
+		if_match
+		{
+			"xpos"	"9999"
 		}
 	}	
 }

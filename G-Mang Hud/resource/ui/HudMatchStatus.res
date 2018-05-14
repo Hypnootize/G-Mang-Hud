@@ -267,7 +267,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
 		"xpos"				"c-55"
-		"ypos"		"-7"
+		"ypos"				"-7"
 		"zpos"				"100"
 		"wide"				"110"
 		"tall"				"480"
@@ -283,29 +283,30 @@
 		
 		if_match
 		{
+			"xpos"			"c-53"
+			"ypos"			"-3"
 			"zpos"			"5"
 		}
 		
 		"TimePanelValue"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"	"HudFontSmall"
+			"font"			"HudFontSmall"
 			"fgcolor"		"ObjectiveTime"
-			"xpos"	"39"
-			"ypos"	"5"
+			"xpos"			"39"
+			"ypos"			"5"
 			"zpos"			"3"
-			"wide"	"30"
+			"wide"			"30"
 			"tall"			"31"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
 			
 			if_match
 			{
-				"xpos"	"40"
-				"ypos"	"9"
+				
 			}
 		}
 	}	
