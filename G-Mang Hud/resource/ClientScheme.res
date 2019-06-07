@@ -524,23 +524,6 @@ Scheme
 			"VaccinatorNotchBB"			"ColorBlack"
 			"VaccinatorText"			"VaccinatorTextDefault"
 			"VaccinatorVoid"			"ProgressVoidDefault"
-			
-					"ItemRarityDefault"                                                "131 126 119 255"
-        "ItemRarityCommon"                                                "176 195 217 255"
-        "ItemRarityUncommon"                                        "94 152 217 255"
-        "ItemRarityRare"                                                "75 105 255 255"
-        "ItemRarityMythical"                                        "136 71 255 255"
-        "ItemRarityLegendary"                                        "211 44 230 255"
-        "ItemRarityAncient"                                                "235 75 75 255"
-        "ItemRarityDefault_GreyedOut"                        "44 42 40 255"
-        "ItemRarityCommon_GreyedOut"                        "59 65 72 255"
-        "ItemRarityUncommon_GreyedOut"                        "31 50 72 255"
-        "ItemRarityRare_GreyedOut"                                "25 35 85 255"
-        "ItemRarityMythical_GreyedOut"                        "45 24 85 255"
-        "ItemRarityLegendary_GreyedOut"                        "70 15 77 255"
-        "ItemRarityAncient_GreyedOut"                        "78 25 25 255"
-		"QualityColorPaintkitWeapon_GreyedOut"        "60 60 60 255"
-		"QuestGold"                        "208 147 75 255"
 		
 			
 			"BowCharge175Notch"			"BowCharge175NotchDefault"
