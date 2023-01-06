@@ -28,6 +28,20 @@
 		"visible"			"1"
 		"enabled"			"1"
 	}
+
+	"InWorldCurrencyPanel"
+	{
+		"ControlName"		"CInWorldCurrencyStatus"
+		"fieldName"			"InWorldCurrencyPanel"
+		"xpos"				"c-179"
+		"ypos"				"r110"
+		"wide"				"100"
+		"tall"				"100"
+		"xpos_minmode"		"c-179"
+		"ypos_minmode"		"r110"
+		"visible" 			"1"
+		"enabled" 			"1"
+	}
 	
 	"TankStatusPanel"
 	{
@@ -44,18 +58,6 @@
 		"pin_to_sibling"               "WaveStatusPanel"
 		"pin_corner_to_sibling"        "4"          
 		"pin_to_sibling_corner"        "6"  
-	}
-	
-	"CurrencyStatusPanel"
-	{
-		"ControlName"		"CCurrencyStatusPanel"
-		"fieldName"			"CurrencyStatusPanel"
-		"xpos"				"c-179"
-		"ypos"				"r128"
-		"wide"				"100"
-		"tall"				"100"
-		"visible" 			"1"
-		"enabled" 			"1"
 	}
 
 	"WarningSwoop"
